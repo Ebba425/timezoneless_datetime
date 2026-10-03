@@ -1,6 +1,6 @@
 [project]
 name = "timezoneless-datetime"
-version = "0.1.1"
+version = "0.1.2"
 description = "Represents and manipulates datetimes explicitly without timezone information."
 requires-python = ">=3.10"
 dependencies = []
